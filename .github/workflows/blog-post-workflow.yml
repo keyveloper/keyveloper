@@ -12,12 +12,12 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
         env:
           TZ: Asia/Seoul # 날짜를 한국 시간으로 표시
         with:
           feed_list: "https://rss.blog.naver.com/jword_.xml"
           max_post_count: 5
-          template: "- [$title]($url) - $date $newline"
+          template: "$newline- [$title]($url) - $date"
           date_format: "mmm d, yyyy"
