@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
-- [[CKA] 2.3.1 Taints and Tolerations - LAB](https://blog.naver.com/jword_/224434511766?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.3 Taints and Tolerations](https://blog.naver.com/jword_/224434489372?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.2.1 Labels and Selector - LAB](https://blog.naver.com/jword_/224433550224?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.2 Label, Selector, Annotation](https://blog.naver.com/jword_/224432405638?fromRss=true&trackingCode=rss) - Oct 6, 2026
-- [[CKA] 2.1.1 수동 스케쥴러 - LAB](https://blog.naver.com/jword_/224432348295?fromRss=true&trackingCode=rss) - Oct 5, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 2.4.3 Affinity - LAB](https://blog.naver.com/jword_/224434606778?fromRss=true&trackingCode=rss) - Oct 7, 2026
+- [[CKA] 2.4.2 Node Affinity vs Taints and Tolerations](https://blog.naver.com/jword_/224434565776?fromRss=true&trackingCode=rss) - Oct 7, 2026
+- [[CKA] 2.4.1 Node Affinity](https://blog.naver.com/jword_/224434559334?fromRss=true&trackingCode=rss) - Oct 7, 2026
+- [[CKA] 2.4 Node Selector](https://blog.naver.com/jword_/224434540524?fromRss=true&trackingCode=rss) - Oct 7, 2026
+- [[CKA] 2.3.1 Taints and Tolerations - LAB](https://blog.naver.com/jword_/224434511766?fromRss=true&trackingCode=rss) - Oct 7, 2026<!-- BLOG-POST-LIST:END -->
