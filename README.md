@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
+- [[CKA] 2.3.1 Taints and Tolerations - LAB](https://blog.naver.com/jword_/224434511766?fromRss=true&trackingCode=rss) - Oct 7, 2026
+- [[CKA] 2.3 Taints and Tolerations](https://blog.naver.com/jword_/224434489372?fromRss=true&trackingCode=rss) - Oct 7, 2026
 - [[CKA] 2.2.1 Labels and Selector - LAB](https://blog.naver.com/jword_/224433550224?fromRss=true&trackingCode=rss) - Oct 7, 2026
 - [[CKA] 2.2 Label, Selector, Annotation](https://blog.naver.com/jword_/224432405638?fromRss=true&trackingCode=rss) - Oct 6, 2026
-- [[CKA] 2.1.1 수동 스케쥴러 - LAB](https://blog.naver.com/jword_/224432348295?fromRss=true&trackingCode=rss) - Oct 5, 2026
-- [[CKA] 2.1 수동 스케줄러 설정](https://blog.naver.com/jword_/224432338609?fromRss=true&trackingCode=rss) - Oct 5, 2026
-- [Dos와 DDos](https://blog.naver.com/jword_/224431303367?fromRss=true&trackingCode=rss) - Oct 4, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 2.1.1 수동 스케쥴러 - LAB](https://blog.naver.com/jword_/224432348295?fromRss=true&trackingCode=rss) - Oct 5, 2026<!-- BLOG-POST-LIST:END -->
