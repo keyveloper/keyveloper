@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
-- [[CKA] 2.4.3 Affinity - LAB](https://blog.naver.com/jword_/224434606778?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.4.2 Node Affinity vs Taints and Tolerations](https://blog.naver.com/jword_/224434565776?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.4.1 Node Affinity](https://blog.naver.com/jword_/224434559334?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.4 Node Selector](https://blog.naver.com/jword_/224434540524?fromRss=true&trackingCode=rss) - Oct 7, 2026
-- [[CKA] 2.3.1 Taints and Tolerations - LAB](https://blog.naver.com/jword_/224434511766?fromRss=true&trackingCode=rss) - Oct 7, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 2.8 Priortiy Class](https://blog.naver.com/jword_/224435599050?fromRss=true&trackingCode=rss) - Oct 8, 2026
+- [[CKA] 2.7.1 StaticPod - LAB](https://blog.naver.com/jword_/224435598449?fromRss=true&trackingCode=rss) - Oct 8, 2026
+- [[CKA] 2.7 Static Pod](https://blog.naver.com/jword_/224435488238?fromRss=true&trackingCode=rss) - Oct 8, 2026
+- [[CKA] 2.6.1 DaemonSet - LAB](https://blog.naver.com/jword_/224435448898?fromRss=true&trackingCode=rss) - Oct 8, 2026
+- [[CKA] 2.6 DaemonSets](https://blog.naver.com/jword_/224435426224?fromRss=true&trackingCode=rss) - Oct 8, 2026<!-- BLOG-POST-LIST:END -->
