@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
+- [정탐, 오탐, 미탐](https://blog.naver.com/jword_/224435699117?fromRss=true&trackingCode=rss) - Oct 8, 2026
 - [[CKA] 2.8 Priortiy Class](https://blog.naver.com/jword_/224435599050?fromRss=true&trackingCode=rss) - Oct 8, 2026
 - [[CKA] 2.7.1 StaticPod - LAB](https://blog.naver.com/jword_/224435598449?fromRss=true&trackingCode=rss) - Oct 8, 2026
 - [[CKA] 2.7 Static Pod](https://blog.naver.com/jword_/224435488238?fromRss=true&trackingCode=rss) - Oct 8, 2026
-- [[CKA] 2.6.1 DaemonSet - LAB](https://blog.naver.com/jword_/224435448898?fromRss=true&trackingCode=rss) - Oct 8, 2026
-- [[CKA] 2.6 DaemonSets](https://blog.naver.com/jword_/224435426224?fromRss=true&trackingCode=rss) - Oct 8, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 2.6.1 DaemonSet - LAB](https://blog.naver.com/jword_/224435448898?fromRss=true&trackingCode=rss) - Oct 8, 2026<!-- BLOG-POST-LIST:END -->
