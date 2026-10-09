@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
-- [[CKA] 2.9.1 multiple scheduler - LAB](https://blog.naver.com/jword_/224436517451?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [[CKA] 2.9 Multiple Schedulers](https://blog.naver.com/jword_/224436507647?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [[CKA] 2.8.1 Priortiy Class - LAB](https://blog.naver.com/jword_/224436331424?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [정탐, 오탐, 미탐](https://blog.naver.com/jword_/224435699117?fromRss=true&trackingCode=rss) - Oct 8, 2026
-- [[CKA] 2.8 Priortiy Class](https://blog.naver.com/jword_/224435599050?fromRss=true&trackingCode=rss) - Oct 8, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 4. Application Lifecycle Management](https://blog.naver.com/jword_/224436630927?fromRss=true&trackingCode=rss) - Oct 9, 2026
+- [[CKA] 3.2.1 Managing Application Logs - LAB](https://blog.naver.com/jword_/224436626603?fromRss=true&trackingCode=rss) - Oct 9, 2026
+- [[CKA] 3.2 Managing Application Logs](https://blog.naver.com/jword_/224436618798?fromRss=true&trackingCode=rss) - Oct 9, 2026
+- [[CKA] 3.1.1 Monitor Cluster Components - LAB](https://blog.naver.com/jword_/224436614337?fromRss=true&trackingCode=rss) - Oct 9, 2026
+- [[CKA] 3.1 Monitor Cluster Components](https://blog.naver.com/jword_/224436608210?fromRss=true&trackingCode=rss) - Oct 9, 2026<!-- BLOG-POST-LIST:END -->
