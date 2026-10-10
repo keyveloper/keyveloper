@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
-- [[CKA] 4. Application Lifecycle Management](https://blog.naver.com/jword_/224436630927?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [[CKA] 3.2.1 Managing Application Logs - LAB](https://blog.naver.com/jword_/224436626603?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [[CKA] 3.2 Managing Application Logs](https://blog.naver.com/jword_/224436618798?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [[CKA] 3.1.1 Monitor Cluster Components - LAB](https://blog.naver.com/jword_/224436614337?fromRss=true&trackingCode=rss) - Oct 9, 2026
-- [[CKA] 3.1 Monitor Cluster Components](https://blog.naver.com/jword_/224436608210?fromRss=true&trackingCode=rss) - Oct 9, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 4.3 Configuring ConfigMaps in Applications](https://blog.naver.com/jword_/224437217949?fromRss=true&trackingCode=rss) - Oct 10, 2026
+- [[CKA] 4.2.1 Commands and Arguments in Kubernetes](https://blog.naver.com/jword_/224437172883?fromRss=true&trackingCode=rss) - Oct 10, 2026
+- [[CKA] 4.2 Commands and Arguments in Docker](https://blog.naver.com/jword_/224437164803?fromRss=true&trackingCode=rss) - Oct 10, 2026
+- [[CKA] 4.1 Rolling Update and Rollbacks](https://blog.naver.com/jword_/224437141933?fromRss=true&trackingCode=rss) - Oct 10, 2026
+- [[CKA] 4. Application Lifecycle Management](https://blog.naver.com/jword_/224436630927?fromRss=true&trackingCode=rss) - Oct 9, 2026<!-- BLOG-POST-LIST:END -->
