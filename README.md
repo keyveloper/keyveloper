@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
-- [보안관제의 정의 및 업무 절차](https://blog.naver.com/jword_/224444972129?fromRss=true&trackingCode=rss) - Oct 17, 2026
-- [보안 관제 업무시 활용하는 웹페이지들 &lpar;ipconfig, whois&rpar;](https://blog.naver.com/jword_/224444917268?fromRss=true&trackingCode=rss) - Oct 17, 2026
-- [FDE는 실제로 무엇을 하는가?](https://blog.naver.com/jword_/224444866362?fromRss=true&trackingCode=rss) - Oct 17, 2026
-- [FDE란 무엇인가](https://blog.naver.com/jword_/224443058777?fromRss=true&trackingCode=rss) - Oct 15, 2026
-- [[CKA] 4.3 Configuring ConfigMaps in Applications](https://blog.naver.com/jword_/224437217949?fromRss=true&trackingCode=rss) - Oct 10, 2026<!-- BLOG-POST-LIST:END -->
+- [Virustotal 알아보기](https://blog.naver.com/jword_/224445693371?fromRss=true&trackingCode=rss) - Oct 18, 2026
+- [FDE 최종정리](https://blog.naver.com/jword_/224445627456?fromRss=true&trackingCode=rss) - Oct 18, 2026
+- [FDE 지식 점검](https://blog.naver.com/jword_/224445622144?fromRss=true&trackingCode=rss) - Oct 18, 2026
+- [기업에서 판매하는 AI 솔루션 분석](https://blog.naver.com/jword_/224445611468?fromRss=true&trackingCode=rss) - Oct 18, 2026
+- [보안관제의 정의 및 업무 절차](https://blog.naver.com/jword_/224444972129?fromRss=true&trackingCode=rss) - Oct 17, 2026<!-- BLOG-POST-LIST:END -->
