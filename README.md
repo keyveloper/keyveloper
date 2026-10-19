@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
-- [virustotal 실습하기](https://blog.naver.com/jword_/224445797220?fromRss=true&trackingCode=rss) - Oct 18, 2026
-- [Virustotal 알아보기](https://blog.naver.com/jword_/224445693371?fromRss=true&trackingCode=rss) - Oct 18, 2026
-- [FDE 최종정리](https://blog.naver.com/jword_/224445627456?fromRss=true&trackingCode=rss) - Oct 18, 2026
-- [FDE 지식 점검](https://blog.naver.com/jword_/224445622144?fromRss=true&trackingCode=rss) - Oct 18, 2026
-- [기업에서 판매하는 AI 솔루션 분석](https://blog.naver.com/jword_/224445611468?fromRss=true&trackingCode=rss) - Oct 18, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 4.4 Secret](https://blog.naver.com/jword_/224447106240?fromRss=true&trackingCode=rss) - Oct 19, 2026
+- [[CKA]  Configuring ConfigMaps in Applications - LAB](https://blog.naver.com/jword_/224447086079?fromRss=true&trackingCode=rss) - Oct 19, 2026
+- [[CKA] 4.3 Configuring ConfigMaps in Applications](https://blog.naver.com/jword_/224447036562?fromRss=true&trackingCode=rss) - Oct 19, 2026
+- [[CKA] 4.2.2 Commands and Arguments - LAB](https://blog.naver.com/jword_/224447034466?fromRss=true&trackingCode=rss) - Oct 19, 2026
+- [virustotal 실습하기](https://blog.naver.com/jword_/224445797220?fromRss=true&trackingCode=rss) - Oct 18, 2026<!-- BLOG-POST-LIST:END -->
