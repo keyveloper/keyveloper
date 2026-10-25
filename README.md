@@ -26,4 +26,4 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 - [[CKA]  Configuring ConfigMaps in Applications - LAB](https://blog.naver.com/jword_/224447086079?fromRss=true&trackingCode=rss) - Oct 19, 2026
 - [[CKA] 4.3 Configuring ConfigMaps in Applications](https://blog.naver.com/jword_/224447036562?fromRss=true&trackingCode=rss) - Oct 19, 2026
 - [[CKA] 4.2.2 Commands and Arguments - LAB](https://blog.naver.com/jword_/224447034466?fromRss=true&trackingCode=rss) - Oct 19, 2026
-- [virustotal 실습하기](https://blog.naver.com/jword_/224445797220?fromRss=true&trackingCode=rss) - Oct 18, 2026<!-- BLOG-POST-LIST:END -->
+- [virustotal 실습](https://blog.naver.com/jword_/224445797220?fromRss=true&trackingCode=rss) - Oct 18, 2026<!-- BLOG-POST-LIST:END -->
