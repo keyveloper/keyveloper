@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
+- [정적 분석, 동적분석 주요 특징 및 도구](https://blog.naver.com/jword_/224461397989?fromRss=true&trackingCode=rss) - Nov 1, 2026
 - [Virustotal 추가](https://blog.naver.com/jword_/224453373224?fromRss=true&trackingCode=rss) - Oct 25, 2026
 - [[CKA] 4.4 Secret](https://blog.naver.com/jword_/224447106240?fromRss=true&trackingCode=rss) - Oct 19, 2026
 - [[CKA]  Configuring ConfigMaps in Applications - LAB](https://blog.naver.com/jword_/224447086079?fromRss=true&trackingCode=rss) - Oct 19, 2026
-- [[CKA] 4.3 Configuring ConfigMaps in Applications](https://blog.naver.com/jword_/224447036562?fromRss=true&trackingCode=rss) - Oct 19, 2026
-- [[CKA] 4.2.2 Commands and Arguments - LAB](https://blog.naver.com/jword_/224447034466?fromRss=true&trackingCode=rss) - Oct 19, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 4.3 Configuring ConfigMaps in Applications](https://blog.naver.com/jword_/224447036562?fromRss=true&trackingCode=rss) - Oct 19, 2026<!-- BLOG-POST-LIST:END -->
