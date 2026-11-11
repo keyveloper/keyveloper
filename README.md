@@ -22,8 +22,8 @@ Fullstack(Web, Android) Developer & Cloud Engineer
 
 <!-- 아래 두 줄 사이는 GitHub Actions가 자동으로 채웁니다. 직접 고치지 마세요 -->
 <!-- BLOG-POST-LIST:START -->
+- [Gitops 파이프라인 구성 &lpar;ArgoCD, Helm&rpar;](https://blog.naver.com/jword_/224472922110?fromRss=true&trackingCode=rss) - Nov 11, 2026
 - [악성코드 샘플 수집 및 실행](https://blog.naver.com/jword_/224469477489?fromRss=true&trackingCode=rss) - Nov 8, 2026
 - [정적 분석, 동적분석 주요 특징 및 도구](https://blog.naver.com/jword_/224461397989?fromRss=true&trackingCode=rss) - Nov 1, 2026
 - [Virustotal 추가](https://blog.naver.com/jword_/224453373224?fromRss=true&trackingCode=rss) - Oct 25, 2026
-- [[CKA] 4.4 Secret](https://blog.naver.com/jword_/224447106240?fromRss=true&trackingCode=rss) - Oct 19, 2026
-- [[CKA]  Configuring ConfigMaps in Applications - LAB](https://blog.naver.com/jword_/224447086079?fromRss=true&trackingCode=rss) - Oct 19, 2026<!-- BLOG-POST-LIST:END -->
+- [[CKA] 4.4 Secret](https://blog.naver.com/jword_/224447106240?fromRss=true&trackingCode=rss) - Oct 19, 2026<!-- BLOG-POST-LIST:END -->
